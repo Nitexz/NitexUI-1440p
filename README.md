@@ -1,2 +1,7 @@
 Welcome to NitexUI
-Please fin profile strings above
+
+Please find profile strings above
+
+Changelog:
+
+08.05: Release
